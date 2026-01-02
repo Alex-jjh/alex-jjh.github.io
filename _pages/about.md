@@ -40,7 +40,7 @@ My current technical focus includes **Machine Learning Applications**, **ETL Pip
   - Uncovered logistics insights by identifying critical lead time thresholds through **feature engineering** and clustering analysis.
   - Developed **Amazon QuickSight** dashboards and automated ETL workflows using **Python/SQL**.
 
-- *2025.09 - Present*, **IQVIA**, Shanghai, China.
+- *2025.09 - 2025.12*, **IQVIA**, Shanghai, China.
   - **Technology Consulting Intern**.
   - Supporting end-to-end implementation of **SmartSolve® Quality Management System**.
   - Collaborating on functional specifications (System Flowchart) and mapping business processes for Document & Change Management modules.
