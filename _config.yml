@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Alex's Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "BIE & DS Intern @ Amazon | Ex-SAP | Information Systems Student @ XJTLU | Vibe Coding | Data Analytics, Digital Transformation & Project Coordination "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Xi'an Jiaotong-Liverpool University | Information Systems | BSc"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "Amazon"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "alexj.repo@outlook.com"
