@@ -1,22 +1,22 @@
-# main links links
+# main links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "About"
+    url: "/#about-me"        # 对应 <span id='about-me'>
 
   - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#news"            # 对应 # News
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#internships"     # 对应 # Internships
+
+  - title: "Projects"
+    url: "/#selected-projects" # 对应 # Selected Projects (自动转为 selected-projects)
+
+  - title: "Educations"
+    url: "/#educations"      # 对应 # Educations
+
+  - title: "Honors"
+    url: "/#honors-and-awards" # 对应 # Honors and Awards
+
+  - title: "Skills"
+    url: "/#skills"          # 对应 # Skills

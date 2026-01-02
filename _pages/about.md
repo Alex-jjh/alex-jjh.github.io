@@ -28,13 +28,13 @@ Previously, I worked as a **BIE & DS Intern at Amazon**, and an **iXp Intern at 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Profile-blue?logo=github)](https://github.com/YOUR_GITHUB_ID)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jiahao-jiang04)
 
-# 🔥 News
+# News
 - *2025.01*: &nbsp;🚀 Started my internship as a **Business Intelligence Engineer & Data Science Intern** at **Amazon**.
 - *2024.07*: &nbsp;💼 Completed the **iXp Internship** program at **SAP Labs China**.
 - *2024.04*: &nbsp;🏆 Awarded **Meritorious Winner** in the Mathematical Contest in Modeling (MCM/ICM).
 - *2024.02*: &nbsp;🎓 Completed the Data Science program at **UCLA Extension**.
 
-# 💻 Internships
+# Internships
 - *2025.01 - Present*, **Amazon**, Shanghai, China.
   - **Business Intelligence Engineer & Data Science Intern**. 
   - Focusing on Global Logistics data pipelines, ETL automation using Python/SQL, and supply chain visualization.
@@ -45,7 +45,7 @@ Previously, I worked as a **BIE & DS Intern at Amazon**, and an **iXp Intern at 
   - **Data Analyst Intern**.
   - Developed Tableau dashboards and engineered data pipelines for pharmaceutical consulting.
 
-# 📝 Selected Projects 
+# Selected Projects 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Progress</div><img src='images/rag_arch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -74,7 +74,7 @@ Previously, I worked as a **BIE & DS Intern at Amazon**, and an **iXp Intern at 
 </div>
 </div>
 
-# 📖 Educations
+# Educations
 - *2023.09 - 2027.06 (Expected)*, **Xi'an Jiaotong-Liverpool University (XJTLU)**.
   - B.Sc. in Information Management & Information Systems. 
   - **GPA: 4.0/4.0** (Top 1%).
@@ -83,12 +83,12 @@ Previously, I worked as a **BIE & DS Intern at Amazon**, and an **iXp Intern at 
 - *2024.07 - 2024.08*, **Duke Kunshan University (DKU)**.
   - Summer Session: Computer Science.
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2024* Mathematical Contest In Modeling (MCM) - **Meritorious Winner**
 - *2023* China Daily "21st Century Cup" National English Speaking Competition - **First Prize (National Elites' Final)**
 - *2023* XJTLU Academic Excellence Award
 
-# 🔧 Skills
+# Skills
 - **Languages:** Java, Python, SQL, C/C++ (Basic).
 - **Frameworks & Tools:** Spring Boot, React, AWS, Docker, Tableau, PowerBI.
 - **Core Knowledge:** Operating Systems, Data Structures, Machine Learning, Financial Computing.
