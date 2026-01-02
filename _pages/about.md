@@ -17,78 +17,76 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am **Jiahao (Alex) Jiang**, a final-year undergraduate student at **Xi'an Jiaotong-Liverpool University (XJTLU)**, majoring in **Information Management & Information Systems** (Financial Computing Stream).
+Hello, I am **Jiahao (Alex) Jiang**, a final-year undergraduate student at **Xi'an Jiaotong-Liverpool University (XJTLU)**, majoring in **Information Management & Information Systems**.
 
-I possess a unique hybrid background bridging **Business Intelligence** and **System Engineering**. With a **GPA of 4.0**, I am passionate about applying **Applied Computing** and **Data Science** techniques to solve complex real-world challenges in FinTech and Supply Chain domains.
+I possess a strong academic record with a **GPA of 4.0/4.0** and a unique hybrid background bridging **Business Intelligence**, **Data Science**, and **Technology Consulting**. I have gained extensive hands-on experience translating complex datasets into actionable business insights at industry leaders including **Amazon**, **SAP**, and **IQVIA**.
 
-My current technical focus includes **Large Language Model Applications (RAG)**, **Distributed Systems**, and **Financial Algorithm Trading**.
+My current technical focus includes **Machine Learning Applications**, **ETL Pipeline Optimization**, and **Logistics Supply Chain Analytics**. I am actively looking for graduate research/project opportunities.
 
-Previously, I worked as a **BIE & DS Intern at Amazon**, and an **iXp Intern at SAP**. I am actively looking for graduate research/project opportunities in **Fall 2027**.
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-blue?logo=github)](https://github.com/YOUR_GITHUB_ID)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-blue?logo=github)](https://github.com/Alex-jjh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jiahao-jiang04)
 
 # News
-- *2025.01*: &nbsp;🚀 Started my internship as a **Business Intelligence Engineer & Data Science Intern** at **Amazon**.
-- *2024.07*: &nbsp;💼 Completed the **iXp Internship** program at **SAP Labs China**.
-- *2024.04*: &nbsp;🏆 Awarded **Meritorious Winner** in the Mathematical Contest in Modeling (MCM/ICM).
-- *2024.02*: &nbsp;🎓 Completed the Data Science program at **UCLA Extension**.
+- *2025.11*: &nbsp;🚀 Started internship as **Business Intelligence Engineer & Data Scientist Intern** at **Amazon Global Logistics**.
+- *2025.09*: &nbsp;💼 Joined **IQVIA** as a **Technology Consulting Intern** (AI, Digital & Tech Solutions).
+- *2025.05*: &nbsp;🏆 Awarded **Meritorious Winner (Top 10%)** in the Mathematical Contest in Modeling (MCM/ICM).
+- *2025.03*: &nbsp;🤝 Joined **SAP Labs China** as a **Project Management Intern** (Strategy & Operations).
 
 # Internships
-- *2025.01 - Present*, **Amazon**, Shanghai, China.
-  - **Business Intelligence Engineer & Data Science Intern**. 
-  - Focusing on Global Logistics data pipelines, ETL automation using Python/SQL, and supply chain visualization.
-- *2024.07 - 2025.01*, **SAP Labs China**, Shanghai, China.
-  - **iXp Intern, VT Innovation**.
-  - Conducted extensive software testing and coordinated digital transformation projects.
-- *2024.03 - 2024.06*, **IQVIA**, Shanghai, China.
+
+- *2025.11 - Present*, **Amazon Global Logistics**, Shanghai, China.
+  - **Business Intelligence Engineer & Data Scientist Intern**.
+  - Engineered a hybrid **Machine Learning classification system** (GMM) to segment 1M+ shipping records.
+  - Uncovered logistics insights by identifying critical lead time thresholds through **feature engineering** and clustering analysis.
+  - Developed **Amazon QuickSight** dashboards and automated ETL workflows using **Python/SQL**.
+
+- *2025.09 - Present*, **IQVIA**, Shanghai, China.
+  - **Technology Consulting Intern**.
+  - Supporting end-to-end implementation of **SmartSolve® Quality Management System**.
+  - Collaborating on functional specifications (System Flowchart) and mapping business processes for Document & Change Management modules.
+
+- *2025.03 - 2025.09*, **SAP Labs China**, Shanghai, China.
+  - **Project Management Intern**.
+  - Co-led **Developer Experience** initiatives and managed 50+ technical workshops for 2,000+ developers.
+  - Improved operational efficiency by automating administrative workflows using **Power Automate**.
+
+- *2025.01 - 2025.03*, **Assembly (Stagwell)**, Shanghai, China.
   - **Data Analyst Intern**.
-  - Developed Tableau dashboards and engineered data pipelines for pharmaceutical consulting.
+  - Engineered data pipelines using **Python** to process multi-source API data.
+  - Developed interactive **Tableau** dashboards to track advertising KPIs, informing 5+ client presentations.
 
-# Selected Projects 
+# Selected Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Progress</div><img src='images/rag_arch.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCM 2025</div><img src='images/mcm_model.png' alt="MCM Model" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DocuMind: Enterprise RAG Knowledge Base System](https://github.com/YOUR_GITHUB_ID/DocuMind)
+[Data Insights into Medal Outcomes and Performance Drivers](https://github.com/Alex-jjh)
 
-**Jiahao Jiang (Tech Lead)**, Team Member B, Team Member C
+**Jiahao Jiang**, Team Member B, Team Member C
+*Mathematical Contest in Modeling (MCM) - Meritorious Winner*
 
-- Designed a **Retrieval-Augmented Generation (RAG)** system to handle unstructured university policy documents.
-- Implemented a decoupling architecture using **Spring Boot** for backend logic and **Python (LangChain)** for AI inference.
-- Utilized **Milvus** for vector storage and **Redis** for high-concurrency caching.
-- *Keywords: LLM, RAG, Distributed Systems, Java Spring Boot.*
+- Engineered three analytical models to analyze Olympic performance:
+    1. **Random Forest** for medal count predictions.
+    2. **Logistic Regression** for identifying medalists.
+    3. **Difference-in-Differences** model to quantify the "great coach" effect.
+- Delivered data-driven strategies for resource allocation utilizing **Python** for modeling and **Tableau** for visualization.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Course Project</div><img src='images/fintech.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# Education
+- *2023 - 2027 (Expected)*, **Xi'an Jiaotong-Liverpool University (XJTLU)**.
+  - B.Sc. Information Management & Information Systems. **GPA: 4.0/4.0**.
+- *Summer 2024*, **Duke Kunshan University (DKU)**.
+  - Course: Machine Learning (Grade: A).
+- *Summer 2024*, **Nanyang Technological University (NTU)**.
+  - Course: Cybersecurity (Grade: A+).
+- *Spring 2024*, **UCLA Extension**.
+  - Course: Introduction to Data Science (Grade: A).
+- *Summer 2024*, **EM-Normandie Business School**.
+  - Course: Project Management (Grade: A).
 
-[Distributed Algorithmic Trading Backtesting Engine](https://github.com/YOUR_GITHUB_ID/QuantBacktest)
-
-**Jiahao Jiang**, Collaborators
-
-- Built a multi-threaded backtesting engine for financial time-series data.
-- Optimized performance using **Parallel Computing** techniques (referencing OS concepts) to process K-line data.
-- *Keywords: FinTech, Concurrency, Algorithms.*
-</div>
-</div>
-
-# Educations
-- *2023.09 - 2027.06 (Expected)*, **Xi'an Jiaotong-Liverpool University (XJTLU)**.
-  - B.Sc. in Information Management & Information Systems. 
-  - **GPA: 4.0/4.0** (Top 1%).
-- *2024.06 - 2024.07*, **Nanyang Technological University (NTU)**, Singapore.
-  - Summer Exchange: Cybersecurity.
-- *2024.07 - 2024.08*, **Duke Kunshan University (DKU)**.
-  - Summer Session: Computer Science.
-
-# Honors and Awards
-- *2024* Mathematical Contest In Modeling (MCM) - **Meritorious Winner**
-- *2023* China Daily "21st Century Cup" National English Speaking Competition - **First Prize (National Elites' Final)**
-- *2023* XJTLU Academic Excellence Award
-
-# Skills
-- **Languages:** Java, Python, SQL, C/C++ (Basic).
-- **Frameworks & Tools:** Spring Boot, React, AWS, Docker, Tableau, PowerBI.
-- **Core Knowledge:** Operating Systems, Data Structures, Machine Learning, Financial Computing.
+# Certifications & Skills
+- **Certifications:** AWS Certified AI Practitioner (AIF-C01).
+- **Languages:** Python (Pandas, NumPy), SQL, Java.
+- **BI & Tools:** Tableau, Power BI, Amazon QuickSight, JIRA, Git, Power Automate.
+- **Core Knowledge:** Machine Learning, Corporate Finance, Business Valuation, Database Design.
