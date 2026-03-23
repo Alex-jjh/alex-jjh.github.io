@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" fill="none">
+  <rect width="800" height="400" rx="12" fill="#0f172a"/>
+  <text x="400" y="50" text-anchor="middle" fill="#38bdf8" font-size="22" font-weight="bold" font-family="Arial">Heritage Resource Platform — Architecture</text>
+  <!-- Frontend -->
+  <rect x="40" y="90" width="220" height="140" rx="10" fill="#1e293b" stroke="#38bdf8" stroke-width="2"/>
+  <text x="150" y="120" text-anchor="middle" fill="#f8fafc" font-size="16" font-weight="bold" font-family="Arial">AWS Amplify</text>
+  <text x="150" y="145" text-anchor="middle" fill="#94a3b8" font-size="13" font-family="Arial">Next.js 16 (SSR)</text>
+  <text x="150" y="165" text-anchor="middle" fill="#94a3b8" font-size="13" font-family="Arial">React 19 + TypeScript</text>
+  <text x="150" y="185" text-anchor="middle" fill="#94a3b8" font-size="13" font-family="Arial">Tailwind CSS + shadcn/ui</text>
+  <text x="150" y="205" text-anchor="middle" fill="#94a3b8" font-size="13" font-family="Arial">TanStack Query</text>
+  <!-- Arrow -->
+  <line x1="260" y1="160" x2="340" y2="160" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="300" y="150" text-anchor="middle" fill="#64748b" font-size="11" font-family="Arial">/api/*</text>
+  <!-- Backend -->
+  <rect x="340" y="90" width="220" height="140" rx="10" fill="#1e293b" stroke="#a78bfa" stroke-width="2"/>
+  <text x="450" y="120" text-anchor="middle" fill="#f8fafc" font-size="16" font-weight="bold" font-family="Arial">EC2 (t3.small)</text>
+  <text x="450" y="145" text-anchor="middle" fill="#94a3b8" font-size="13" font-family="Arial">Spring Boot 3.4</text>
+  <text x="450" y="165" text-anchor="middle" fill="#94a3b8" font-size="13" font-family="Arial">Java 21 + MySQL 8</text>
+  <text x="450" y="185" text-anchor="middle" fill="#94a3b8" font-size="13" font-family="Arial">Spring Security</text>
+  <text x="450" y="205" text-anchor="middle" fill="#94a3b8" font-size="13" font-family="Arial">Flyway + JPA</text>
+  <!-- AWS Services -->
+  <rect x="590" y="80" width="180" height="70" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="2"/>
+  <text x="680" y="105" text-anchor="middle" fill="#fbbf24" font-size="14" font-weight="bold" font-family="Arial">AWS Cognito</text>
+  <text x="680" y="125" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="Arial">JWT Authentication</text>
+  <rect x="590" y="165" width="180" height="70" rx="8" fill="#1e293b" stroke="#34d399" stroke-width="2"/>
+  <text x="680" y="190" text-anchor="middle" fill="#6ee7b7" font-size="14" font-weight="bold" font-family="Arial">AWS S3</text>
+  <text x="680" y="210" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="Arial">File Storage</text>
+  <rect x="590" y="250" width="180" height="70" rx="8" fill="#1e293b" stroke="#fb923c" stroke-width="2"/>
+  <text x="680" y="275" text-anchor="middle" fill="#fdba74" font-size="14" font-weight="bold" font-family="Arial">AWS Lambda</text>
+  <text x="680" y="295" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="Arial">Auto Thumbnails</text>
+  <!-- Connections -->
+  <line x1="560" y1="130" x2="590" y2="115" stroke="#f59e0b" stroke-width="1.5"/>
+  <line x1="560" y1="160" x2="590" y2="200" stroke="#34d399" stroke-width="1.5"/>
+  <line x1="560" y1="180" x2="590" y2="280" stroke="#fb923c" stroke-width="1.5"/>
+  <!-- Bottom: DevOps -->
+  <rect x="40" y="280" width="520" height="90" rx="10" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+  <text x="300" y="310" text-anchor="middle" fill="#e2e8f0" font-size="15" font-weight="bold" font-family="Arial">DevOps &amp; Features</text>
+  <text x="300" y="335" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="Arial">Terraform IaC · GitHub Actions CI/CD · Role-Based Access (4 Roles)</text>
+  <text x="300" y="355" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="Arial">Resource Review Workflow · Swagger API Docs · Idle Timeout Security</text>
+  <!-- Arrow marker -->
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#38bdf8"/></marker></defs>
+</svg>

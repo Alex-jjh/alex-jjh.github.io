@@ -57,6 +57,22 @@ My current technical focus includes **Machine Learning Applications**, **ETL Pip
 
 # Selected Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Full-Stack 2025</div><img src='images/heritage_platform.svg' alt="Heritage Resource Platform Architecture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Heritage Resource Platform — Community-Driven Cultural Heritage Sharing](https://github.com/Alex-jjh/heritage-resource-platform)
+
+**Jiahao Jiang** (Solo Developer)
+*Full-Stack Web Application · [Live Demo](https://main.d39jebtelw5xqu.amplifyapp.com)*
+
+- Built a community-driven platform for discovering, sharing, and preserving cultural heritage resources including images, stories, traditions, and historical sites.
+- **Frontend:** Next.js 16, React 19, TypeScript, Tailwind CSS v4, shadcn/ui, TanStack Query.
+- **Backend:** Spring Boot 3.4, Java 21, Spring Security, Spring Data JPA, MySQL 8.
+- **AWS Cloud:** Cognito (JWT Auth), S3 (File Storage), Lambda (Auto Thumbnails), Amplify (SSR Hosting), EC2.
+- **DevOps:** Terraform IaC, GitHub Actions CI/CD, role-based access control with 4-tier permission system and structured resource review workflow.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCM 2025</div><img src='images/mcm_model.png' alt="MCM Model" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
